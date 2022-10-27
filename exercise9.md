@@ -14,7 +14,9 @@
 
 ## Implementing Class
 Implementasikan kelas diagram "Kendaraan" berikut ke dalam Python!
+
    Class Kendaraan :
+   
     - string nomorPlat
     - string merk
     - string jenis
@@ -24,7 +26,6 @@ Implementasikan kelas diagram "Kendaraan" berikut ke dalam Python!
     - int tahunBeli
     - double berat
     - double harga
-    
     - showTanggalPembelian()
 
 ## Main OOP Concept
