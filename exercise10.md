@@ -28,3 +28,10 @@
 - Implementasikan ADT Stack berdasarkan List python menggunakan adapter design pattern!
 
 ### Programming Exercise
+1. Buatlah struktur data Stack menggunakan tuple sebagai adaptee nya dengan adapter design pattern!
+
+2. Buatlah sebuah program yang mengimplementasikan stack berbasis list untuk membalikan urutan teks dengan input sebuah file .txt!
+
+3. Buatlah ADT untuk Queue dan Deque menggunakan adapter design pattern!
+
+4. Buatlah program untuk mengimplementasikan ADT tersebut menggunakan adapter design pattern! 
